@@ -1,6 +1,6 @@
 
 
-import { importObject, setWasmExports } from 'KotlinProject-composeApp.import-object.mjs'
+import { importObject, setWasmExports } from './KotlinProject-composeApp.import-object.mjs'
 
 let wasmInstance;
 
